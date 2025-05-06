@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# do not update /build & /bin
+/build
+/bin
