@@ -18,6 +18,6 @@ aux_source_directory(${PROJECT_SOURCE_DIR}/src SRC_LIST)
 
 # 添加可执行文件 MyCppNote，并链接前面收集到的源文件
 add_executable(
-    MyCppNote
+    MyCppNote 
     ${SRC_LIST}
 )
