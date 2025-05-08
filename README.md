@@ -1,4 +1,1 @@
-# MyCppNote
-this is my cpp note
-
-我的cpp笔记
+001.h and 001.cpp : 函数模板的注意事项
