@@ -1,2 +1,2 @@
-#include"001.h"
-int main(){test001();} 
+#include"002.h"
+int main(){test002();} 

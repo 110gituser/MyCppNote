@@ -1,4 +1,4 @@
-#pragma once    // 避免重复定义
+#pragma once
 #include<iostream>
 using namespace std;
 
