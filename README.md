@@ -6,4 +6,4 @@
 5. git删除文件夹：rm -r --cached build bin（删除/build and /bin）
 
 文件说明:  
-001.h and 001.cpp : 函数模板的注意事项
+1. 001.h and 001.cpp : 函数模板的注意事项
