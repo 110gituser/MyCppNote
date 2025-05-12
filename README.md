@@ -9,3 +9,4 @@
 1. 001.h and 001.cpp : 函数模板的注意事项
 2. 002.h and 002.cpp : 函数模板的具体化
 3. 003.h and 003.cpp : decltype基础
+4. 004.h and 004.cpp : 模板类基础
