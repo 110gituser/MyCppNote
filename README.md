@@ -10,3 +10,4 @@
 2. 002.h and 002.cpp : 函数模板的具体化
 3. 003.h and 003.cpp : decltype基础
 4. 004.h and 004.cpp : 模板类基础
+5. 005.h and 005.cpp : 模板类实现简单栈
