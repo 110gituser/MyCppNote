@@ -1,2 +1,4 @@
-#include"006.h"
-int main(){test006();} 
+#include"main.h"
+int main(){
+    cout<<"This is a test!\n";
+}
