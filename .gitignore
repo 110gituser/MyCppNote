@@ -31,6 +31,6 @@
 *.out
 *.app
 
-# do not update /build & /bin
+# do not update
 /build
-/bin
+.vscode
