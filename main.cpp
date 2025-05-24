@@ -1,4 +1,6 @@
 #include"main.h"
+
 int main(){
-    cout<<"This is a test!\n";
+    test01();
+    cout<<"This is a test in main function!\n";
 }
