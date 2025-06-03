@@ -12,7 +12,7 @@ public:
     string m_name;
 };
 
-void test01(); 
+// void test01(); 
 void test02(); 
 void test03(); 
 

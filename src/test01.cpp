@@ -1,8 +1,8 @@
 #include"test01.h"
 
-void test01(){
-    cout<<"this is test01\n";
-}
+// void test01(){
+//     cout<<"this is test01\n";
+// }
 
 void test02(){
     cout<<"当前编译日期: "<<__DATE__<<endl;
