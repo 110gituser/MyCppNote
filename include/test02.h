@@ -1,4 +1,4 @@
 #include<iostream>
 #include<string>
 using namespace std;
-void test01();
+void test02_1();

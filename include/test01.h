@@ -12,8 +12,8 @@ public:
     string m_name;
 };
 
-// void test01(); 
-void test02(); 
-void test03(); 
+void test01_1(); 
+void test01_2(); 
+void test01_3(); 
 
 #endif

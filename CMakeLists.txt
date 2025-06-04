@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.29.0)  # 设置CMake的最低版本要求为3.29.0
-project(MyCppNote)  # 设置项目名称为MyCppNote
-set(CMAKE_CXX_STANDARD 17) # 设置C++标准为C++17
+cmake_minimum_required(VERSION 3.29.0)
+project(MyCppNote)
+set(CMAKE_CXX_STANDARD 17)
 
-# 设置可执行文件,动(静)态库的输出目录为构建目录下的lib文件夹
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/bin)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib)
+# 设置可执行文件,动,静态库的输出目录
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/bin) # ./build/bin
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib) # ./build/lib
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib)
 
 # 自动查找src目录下的所有源文件，并将它们添加到SRC_LISTS变量中

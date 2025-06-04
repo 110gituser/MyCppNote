@@ -11,5 +11,6 @@ int main(){
     #else
         cout<<"Not windows!\n";
     #endif
-    test01();
+    
+    test02_1();
 }
